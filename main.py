@@ -14,7 +14,7 @@ end_of_game = False
 lives = 6
 
 
-print(f'Pssst, the solution is {chosen_word}.')
+print(f'The solution is {chosen_word}.')
 
 
 display = []
